@@ -21,7 +21,7 @@ This project is an automatic alert system developed using Python and web scrapin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/nft-alert-system.git
+    git clone https://github.com/MaroZayn/nft-alert-system.git
     ```
 
 2. Install the required dependencies:
